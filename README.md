@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quantum-collision
+- 👋 Hi, I’m @Vincent-Huang-2000
 - 👀 I’m interested in computer vision and artificial intelligence
 - 🌱 I’m currently learning Bachelor of Computer Science
 
