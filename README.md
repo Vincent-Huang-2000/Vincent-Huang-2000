@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent Huang
 - 🏆️ I’m interested in Data analysis and Software development
-- 🌱 I’m currently learning Bachelor of Computer Science
-- 👀 Looking for a job in data analytics or consulting.
+- 🌱 I graduated with a bachelor's degree in computer science
+- 👀 Looking for a job in software analysis, data analysis or consulting.
 
 <!---
 quantum-collision/quantum-collision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
